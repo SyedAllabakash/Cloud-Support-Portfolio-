@@ -1,1 +1,1 @@
-This project demonstrates how to monitor an VM in Azure and respond to high CPU usage alerts using Aure Monitor 
+This project demonstrates how to monitor an VM in Azure and respond to high CPU usage alerts using Azure monitor 
