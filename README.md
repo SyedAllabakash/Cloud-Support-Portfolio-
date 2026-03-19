@@ -1,3 +1,1 @@
-# Cloud-Support-Portfolio-
- monitoring-alerting-azure
- iam-rbac-azure-lab
+# This project demonstrates how to monitor an VM's and respond to high CPU usage alerts using Azure Monitor 
